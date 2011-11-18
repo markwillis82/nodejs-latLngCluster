@@ -1,0 +1,14 @@
+{
+    "name": "latLngCluster"
+  , "version": "0.0.1"
+  , "description": "Cluster Lat Lng points together based on pixel distance and zoom level"
+  , "homepage": "http://"
+  , "keywords": ["maps", "Lat Lng clusterer"]
+  , "author": "Mark Willis <mwillisfb@googlemail.com>"
+  , "repository":{
+        "type": "git"
+      , "url": "https://github.com/markwillis82/nodejs-latLngCluster"
+    }
+  , "main": "clusterer"
+  , "engines": { "node": ">= 0.4.0" }
+}
